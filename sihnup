@@ -1,0 +1,11 @@
+#ifndef SIGNUP
+#define SIGNUP
+
+
+class signup
+{
+public:
+    signup();
+};
+
+#endif // SIGNUP
